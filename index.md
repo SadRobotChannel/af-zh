@@ -1,24 +1,24 @@
 ---
 layout: page
-title: Best Cryptocurrency Faucets
+title: 最好的加密货币水龙头
 comments: false
-img: https://www.staleblock.com/assets/images/all-faucets.com-thumb.png
-alt: Cryptocurrency faucets are reward systems in a form of a website or an app that dispense free coins.
-desc: If you're new to crypto faucets this site is for you. Learn how to maximize the value of your time and effort while claiming from free bitcoin faucet sites.
-URL: https://www.staleblock.com/index.html
+img: https://zh.staleblock.com/assets/images/all-faucets.com-thumb.png
+alt: 加密货币水龙头是分配免费硬币的网站或应用程序形式的奖励系统。
+desc: 如果您不熟悉加密水龙头，那么此网站适合您。 了解如何在免费的比特币水龙头网站上索取钱，同时最大程度地节省时间和精力。
+URL: https://zh.staleblock.com/index.html
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 
-If you're new to crypto faucets this site is for you. We list bitcoin and other digital currency faucets that are verified for their value and reputation. Usually people start trying-out faucets out of curiosity, or as a hobby, but with some knowledge and consistency such hobby can offer a good income. Our goal is to share the knowledge and to enable you to earn digital currency in the way that suits your interests and your life-style.
+如果您不熟悉加密水龙头，那么此网站适合您。 我们列出了经过验证的比特币和其他数字货币水龙头的价值和声誉。 通常，人们出于好奇或作为一种爱好而开始尝试水龙头，但是有了一些知识和一贯性，这种爱好就可以提供可观的收入。 我们的目标是分享知识，并使您能够以适合自己的兴趣和生活方式的方式赚取数字货币。
 
-Continue reading: <a href="https://www.staleblock.com/daily/2019/12/12/index.html">Getting Started with Bitcoin Faucets</a>.
+继续阅读：<a href="https://zh.staleblock.com/daily/2019/12/12/index.html">比特币水龙头入门</a>.
 
 ---
-#### 2019's Favorite Faucets
+#### 2019年最喜欢的水龙头
 
-A lot had changed since we first published this website. One, the price of the Bitcoin went up from circa 3,500 USD to over 10,000 USD occasionally reaching up to 12 or 13 thousands of US dollars. Such an increase in value had put many of the faucet websites out of business, as they could not afford giving away the promised rewards. Many have gone offline without distributing the amounts in your wallets, thus simply stealing your money. These are the risks that you need to be aware of and accept when investing your time or your money in cryptocurrency related services.
+自我们首次发布此网站以来，发生了很多变化。 第一，比特币的价格从大约3500美元上涨到超过10,000美元，偶尔达到12或13000美元。 如此高的价值使许多水龙头网站无法营业，因为它们无法承担承诺的回报。 许多人已经离线，而没有在钱包里分配钱，因此只是偷钱。 这些是您在将时间或金钱投入到与加密货币相关的服务时需要意识到和接受的风险。
 
-Still, the following faucets sites remain loyal to their members and continue dispensing free satoshi:
+尽管如此，以下水龙头站点仍忠于其成员，并继续分发免费的satoshi：
 
 - <a href="http://bit.ly/www-adbtc" target="_blank">adBTC</a>
 - <a href="http://bit.ly/www-btcfox" target="_blank">BtcFox</a>

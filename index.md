@@ -32,7 +32,6 @@ URL: https://zh.staleblock.com/index.html
 - <a href="http://bit.ly/www-free-dogecoin" target="_blank">Free-Dogecoin</a>
 - <a href="http://bit.ly/www-rollercoin" target="_blank">RollerCoin</a>
 
-
 <div id="disqus_thread"></div>
 <script>
 
@@ -47,7 +46,7 @@ this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your pag
 */
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-s.src = 'https://all-faucets.disqus.com/embed.js';
+s.src = 'https://bitcoin-cash.disqus.com/embed.js';
 s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();

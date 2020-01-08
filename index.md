@@ -14,32 +14,30 @@ URL: https://zh.all-faucets.com/index.html
 继续阅读：<a href="https://zh.all-faucets.com/daily/2019/12/12/index.html">比特币水龙头入门</a>.
 
 ---
-#### 2019年最喜欢的水龙头
+#### 2019年总结
 
-自我们首次发布此网站以来，发生了很多变化。 第一，比特币的价格从大约3500美元上涨到超过10,000美元，偶尔达到12或13000美元。 如此高的价值使许多水龙头网站无法营业，因为它们无法承担承诺的回报。 许多人已经离线，而没有在钱包里分配钱，因此只是偷钱。 这些是您在将时间或金钱投入到与加密货币相关的服务时需要意识到和接受的风险。
+2019年对加密货币水龙头造成了毁灭性影响。 互联网上出现了数百个水龙头站点，当年开始时，比特币的价格在3500美元左右。 然后，随着BTC的价格突然飙升至10,000美元，有时甚至高达12或13,000美元，大多数站点关闭或使其界面不可用（点击和广告超载）。
 
-尽管如此，以下水龙头站点仍忠于其成员，并继续分发免费的satoshi：
+我们在2019年中期看到的加密货币价值的增长使许多水龙头网站停业，因为他们无法承受承诺的回报。 许多人下线时没有分配您的钱包里的金额，因此只是偷了您赚到的钱。 这些是您在与水龙头相关的服务上花费时间时需要意识到和接受的风险。
 
-- <a href="http://bit.ly/www-adbtc" target="_blank">adBTC</a>
-- <a href="http://bit.ly/www-btcfox" target="_blank">BtcFox</a>
-- <a href="http://bit.ly/www-btcpop" target="_blank">BTCPop</a>
-- <a href="http://bit.ly/www-cointiply" target="_blank">Cointiply</a>
-- <a href="http://bit.ly/www-cryptofarmer" target="_blank">Crypto Farmer</a>
-- <a href="http://bit.ly/www-cryptomininggame" target="_blank">Crypto Mining Game</a>
-- <a href="http://bit.ly/www-febbit" target="_blank">Febbit</a>
-- <a href="http://bit.ly/www-firefaucet" target="_blank">Fire Faucet</a>
-- <a href="http://bit.ly/www-freebitcoin" target="_blank">FreeBitco.in</a>
-- <a href="http://bit.ly/www-free-dogecoin" target="_blank">Free-Dogecoin</a>
-- <a href="http://bit.ly/www-rollercoin" target="_blank">RollerCoin</a>
+---
+#### 2020年仍可使用的加密水龙头
+
+我们推荐以下11个水龙头站点。 他们忠于会员，并继续分发免费硬币：
+
+1. <a href="http://bit.ly/www-adbtc" target="_blank">adBTC</a> - 付费2冲浪网站
+2. <a href="http://bit.ly/www-btcfox" target="_blank">BtcFox</a> - 每小时有趣的水龙头
+3. <a href="http://bit.ly/www-btcpop" target="_blank">BTCPop</a> - 每30分钟领取一次，主要是Altcoins，赌注
+4. <a href="http://bit.ly/www-cointiply" target="_blank">Cointiply</a> - 每小时有趣的水龙头
+5. <a href="http://bit.ly/www-cryptofarmer" target="_blank">Crypto Farmer</a> - 加密水龙头游戏
+6. <a href="http://bit.ly/www-cryptomininggame" target="_blank">Crypto Mining Game</a> - 加密水龙头游戏
+7. <a href="http://bit.ly/www-febbit" target="_blank">Febbit</a> - 加密水龙头游戏
+8. <a href="http://bit.ly/www-firefaucet" target="_blank">Fire Faucet</a> - 自动龙头
+9. <a href="http://bit.ly/www-freebitcoin" target="_blank">FreeBitco.in</a> - 每小时有趣的水龙头
+10. <a href="http://bit.ly/www-free-dogecoin" target="_blank">Free-Dogecoin</a> - 每小时有趣的水龙头
+11. <a href="http://bit.ly/www-rollercoin" target="_blank">RollerCoin</a> - 加密水龙头游戏
 
 您对加密水龙头有什么经验？ 你有没有尝试过？ 你有喜欢的网站吗？
 
 <div id="commento"></div>
 <script src="https://cdn.commento.io/js/commento.js"></script>
-
----
-#### 加入我们的新加密社区
-
-该网站all-faucets.com专门针对加密货币水龙头。 尽管域名暗示我们将列出“所有”水龙头，但实际上，只有少数优质水龙头值得您花费时间和精力。 但是，还有许多其他方式可以赚取加密货币-采矿，抵押，首次公开募股和空投，超低温工作等。 机会很多，但是您需要高质量的信息才能利用这些机会来发挥自己的优势。
-
-因此，我启动了一个新的社区网站<a href="https://www.staleblock.com/" target="_blank">StaleBlock.com</a>。 加密世界远远超出了加密水龙头！ 和我一起在<i>StaleBlock.com</i>上建立一个智能的加密社区。
